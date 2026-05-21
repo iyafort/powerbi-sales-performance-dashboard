@@ -9,7 +9,7 @@ This project is an interactive Sales Performance Dashboard built in Power BI usi
 
 ## Dashboard Preview
 
-![Image](Sales Performance Dashboard (Power BI).png)
+![Image](Sales-Performance-Dashboard-(Power-BI).png)
 
 ---
 
